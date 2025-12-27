@@ -1,5 +1,5 @@
 # w-state
 
-<!-- <p align="center">
-  <img src="https://github.com/HITXCI/xy_hpp/blob/master/gifs/scenerio1.gif" width="30%">
-</p> -->
+<p align="center">
+  <img src="https://github.com/HITXCI/w-state/blob/main/Fig-1.png" width="30%">
+</p>
